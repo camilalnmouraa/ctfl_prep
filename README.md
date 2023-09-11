@@ -10,7 +10,7 @@ O principal objetivo deste repositório é acompanhar meu progresso de estudo e 
 
 O repositório está organizado da seguinte forma:
 
-- `Notas/`: Este diretório contém minhas anotações de estudo, resumos e insights sobre os tópicos abordados no exame CTFL.
+-  [Notas/](Notas/): Este diretório contém minhas anotações de estudo, resumos e insights sobre os tópicos abordados no exame CTFL.
 
 - `Recursos/`: Aqui, você encontrará links para livros, cursos online, artigos e outras fontes de estudo que encontrei úteis durante minha preparação.
 
