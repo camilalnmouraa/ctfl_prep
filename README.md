@@ -24,6 +24,6 @@ Sinta-se à vontade para contribuir para este repositório, seja corrigindo erro
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestões ou quiser entrar em contato comigo sobre este repositório, sinta-se à vontade para abrir uma issue ou me enviar um e-mail em [moura.camilaluiza@gmail.com].
+Se você tiver alguma dúvida, sugestões ou quiser entrar em contato comigo sobre este repositório, sinta-se à vontade para abrir uma issue ou me enviar um e-mail em moura.camilaluiza@gmail.com.
 
 Vamos juntos alcançar a certificação CTFL!
