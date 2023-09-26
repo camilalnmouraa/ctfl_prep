@@ -68,4 +68,4 @@
 8. 
    - [X] Para garantir que o software seja de alta qualidade e seguro.
 
-Espero que você tenha acertado todas as perguntas! Se tiver alguma dúvida, reveja o resumo acima. 😊
+Espero que você tenha acertado todas as perguntas! 😊
