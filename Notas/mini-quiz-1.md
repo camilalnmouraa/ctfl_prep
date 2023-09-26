@@ -1,44 +1,71 @@
-# Resumo - ISTQB Certified Tester Foundation Level
+# Mini Quiz 1 - Teste Seu Conhecimento sobre Teste de Software! 🧠
 
-## Tópico 1.1: O Que É Teste de Software?
+1. **Qual é a importância do software?**
+   - [ ] Não é importante.
+   - [ ] Pode causar perda de dinheiro e reputação, além de riscos à segurança.
+   - [ ] Não faz diferença.
 
-Neste tópico, exploramos o emocionante mundo do teste de software! 🚀
+2. **O que é o objetivo do teste de software?**
+   - [ ] Apenas executar o software e conferir resultados.
+   - [ ] Planejar, analisar, modelar, implementar testes, fazer relatórios e avaliar a qualidade.
+   - [ ] Ignorar o software.
 
-### Importância do Software
+3. **O que é teste dinâmico?**
+   - [ ] Revisar documentos, como requisitos.
+   - [ ] Testar interativamente o software em tempo real.
+   - [ ] Ignorar o software.
 
-O software está por toda parte, desde aplicativos bancários até jogos de gatinhos. Quando o software não funciona, a coisa pode ficar feia - perda de dinheiro, tempo e até a reputação da empresa em risco! 😱
+4. **Qual é o objetivo da inspeção de código-fonte?**
+   - [ ] Encontrar todos os bugs no software.
+   - [ ] Examinar detalhadamente o código antes de executá-lo.
+   - [ ] Ignorar o código-fonte.
 
-### Objetivo do Teste
+5. **O que é validação no teste de software?**
+   - [ ] Verificar se o software atende às especificações.
+   - [ ] Garantir que o software seja útil e funcione bem no ambiente real.
+   - [ ] Ignorar a validação.
 
-O teste de software é como um detetive investigando o software para garantir que ele não apronte. Não se trata apenas de pressionar botões, é um processo completo! Planejamos, analisamos, modelamos, implementamos testes, fazemos relatórios e avaliamos a qualidade! 🕵️‍♀️
+6. **O que é verificação no teste de software?**
+   - [ ] Garantir que o software seja útil para as pessoas.
+   - [ ] Garantir que o software seja construído corretamente, de acordo com as especificações.
+   - [ ] Ignorar a verificação.
 
-### Teste Dinâmico e Estático
+7. **Em que situação durante o ciclo de vida do desenvolvimento de software você pode querer encontrar defeitos?**
+   - [ ] Nunca.
+   - [ ] Durante o teste de aceitação.
+   - [ ] Durante o teste de componentes.
 
-Existem dois tipos principais de teste:
+8. **Por que o teste de software é importante?**
+   - [ ] Não é importante.
+   - [ ] Porque é uma etapa burocrática.
+   - [ ] Para garantir que o software seja de alta qualidade e seguro.
+   - [ ] 
 
-#### Teste Dinâmico - Teste de Aplicativo Móvel 🤳
+**Respostas:** 
 
-Imagine que você baixou um novo aplicativo para o seu smartphone. Você o abre, toca em botões, navega por telas e realiza ações malucas para garantir que ele funcione corretamente. 📱
+1. 
+   - [X] Pode causar perda de dinheiro e reputação, além de riscos à segurança.
 
-> **Atenção:** Se encontrar algum problema, como o aplicativo travando ou se comportando mal, é sinal de que algo está errado e precisa ser corrigido!
+2. 
+   - [X] Planejar, analisar, modelar, implementar testes, fazer relatórios e avaliar a qualidade.
 
-#### Teste Estático - Inspeção de Código-Fonte 👩‍💻
+3. 
+   - [X] Testar interativamente o software em tempo real.
 
-Aqui, os desenvolvedores revisam o código-fonte sem executá-lo. Eles procuram por erros, problemas de segurança e coisas estranhas no código. Também verificam se o código é claro e se segue as regras da equipe. 💼
+4. 
+   - [X] Examinar detalhadamente o código antes de executá-lo.
 
-> **Atenção:** Este teste é como examinar uma obra de arte antes de colocá-la na galeria - ajuda a garantir que seja uma obra-prima!
+5. 
+   - [X] Garantir que o software seja útil e funcione bem no ambiente real.
 
-### Verificação e Validação
 
-O teste não é apenas sobre conferir requisitos, também envolve validação. Isso significa garantir que o software seja útil e funcione bem no ambiente real. 🌟
+6. 
+   - [X] Garantir que o software seja construído corretamente, de acordo com as especificações.
 
-> **Atenção:** Verificação se concentra em garantir que o software seja construído corretamente, enquanto validação se concentra em garantir que seja útil para as pessoas. Ambos são essenciais para qualidade!
+7. 
+   - [X] Durante o teste de componentes.
 
-### Variação nos Objetivos do Teste
+8. 
+   - [X] Para garantir que o software seja de alta qualidade e seguro.
 
-Os objetivos de teste podem variar muito:
-
-- No teste de componentes, procuramos defeitos.
-- No teste de aceitação, garantimos que o sistema atenda aos requisitos e decidimos se é hora de liberá-lo!
-
-Espero que estas informações tenham tornado o mundo do teste de software mais divertido e claro! Isso é importante para quem quer se tornar um testador certificado pelo ISTQB, como eu! 🌐
+Espero que você tenha acertado todas as perguntas! Se tiver alguma dúvida, reveja o resumo acima. 😊
