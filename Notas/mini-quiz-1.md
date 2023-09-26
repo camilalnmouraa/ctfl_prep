@@ -39,7 +39,7 @@
    - [ ] Não é importante.
    - [ ] Porque é uma etapa burocrática.
    - [ ] Para garantir que o software seja de alta qualidade e seguro.
-   - [ ] 
+
 
 **Respostas:** 
 
