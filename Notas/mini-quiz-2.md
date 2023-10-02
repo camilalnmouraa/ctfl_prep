@@ -1,71 +1,53 @@
-# Mini Quiz 1 - Teste Seu Conhecimento sobre Teste de Software! 🧠
-
-1. **Qual é a importância do software?**
-   - [ ] Não é importante.
-   - [ ] Pode causar perda de dinheiro e reputação, além de riscos à segurança.
-   - [ ] Não faz diferença.
-
-2. **O que é o objetivo do teste de software?**
-   - [ ] Apenas executar o software e conferir resultados.
-   - [ ] Planejar, analisar, modelar, implementar testes, fazer relatórios e avaliar a qualidade.
-   - [ ] Ignorar o software.
-
-3. **O que é teste dinâmico?**
-   - [ ] Revisar documentos, como requisitos.
-   - [ ] Testar interativamente o software em tempo real.
-   - [ ] Ignorar o software.
-
-4. **Qual é o objetivo da inspeção de código-fonte?**
-   - [ ] Encontrar todos os bugs no software.
-   - [ ] Examinar detalhadamente o código antes de executá-lo.
-   - [ ] Ignorar o código-fonte.
-
-5. **O que é validação no teste de software?**
-   - [ ] Verificar se o software atende às especificações.
-   - [ ] Garantir que o software seja útil e funcione bem no ambiente real.
-   - [ ] Ignorar a validação.
-
-6. **O que é verificação no teste de software?**
-   - [ ] Garantir que o software seja útil para as pessoas.
-   - [ ] Garantir que o software seja construído corretamente, de acordo com as especificações.
-   - [ ] Ignorar a verificação.
-
-7. **Em que situação durante o ciclo de vida do desenvolvimento de software você pode querer encontrar defeitos?**
-   - [ ] Nunca.
-   - [ ] Durante o teste de aceitação.
-   - [ ] Durante o teste de componentes.
-
-8. **Por que o teste de software é importante?**
-   - [ ] Não é importante.
-   - [ ] Porque é uma etapa burocrática.
-   - [ ] Para garantir que o software seja de alta qualidade e seguro.
+# Quiz - Capítulo 1.2 da Syllabus - ISTQB Certified Tester Foundation Level
 
 
-**Respostas:** 
+**Pergunta 1:** Qual é a diferença fundamental entre teste e depuração de código?
 
-1. 
-   - [X] Pode causar perda de dinheiro e reputação, além de riscos à segurança.
+- [ ] Teste envolve encontrar defeitos, enquanto depuração envolve a verificação de requisitos.
+- [ ] Teste envolve corrigir defeitos, enquanto depuração envolve a identificação de falhas.
+- [ ] Teste envolve avaliar a qualidade do software, enquanto depuração envolve a execução de testes.
+- [ ] Teste envolve a revisão de documentos, enquanto depuração envolve a análise de código.
 
-2. 
-   - [X] Planejar, analisar, modelar, implementar testes, fazer relatórios e avaliar a qualidade.
+**Pergunta 2:** Por que o teste é necessário no desenvolvimento de software?
 
-3. 
-   - [X] Testar interativamente o software em tempo real.
+- [ ] Para aumentar o custo do desenvolvimento.
+- [ ] Para agradar aos testadores.
+- [ ] Para reduzir o risco de falhas durante a operação.
+- [ ] Para cumprir requisitos de design.
 
-4. 
-   - [X] Examinar detalhadamente o código antes de executá-lo.
+**Pergunta 3:** Qual é a principal contribuição do teste para o sucesso no desenvolvimento de software?
 
-5. 
-   - [X] Garantir que o software seja útil e funcione bem no ambiente real.
+- [ ] Aumentar o tempo de desenvolvimento.
+- [ ] Adicionar mais complexidade ao código.
+- [ ] Garantir que nenhum defeito seja encontrado.
+- [ ] Reduzir o risco de entregas problemáticas.
 
+**Pergunta 4:** Qual é o objetivo do teste de confirmação após a depuração?
 
-6. 
-   - [X] Garantir que o software seja construído corretamente, de acordo com as especificações.
+- [ ] Encontrar mais defeitos.
+- [ ] Verificar os requisitos.
+- [ ] Corrigir problemas de design.
+- [ ] Garantir que as correções funcionem corretamente.
 
-7. 
-   - [X] Durante o teste de componentes.
+**Pergunta 5:** Como os testadores e desenvolvedores podem colaborar para reduzir defeitos no código?
 
-8. 
-   - [X] Para garantir que o software seja de alta qualidade e seguro.
+- [ ] Evitando completamente a colaboração.
+- [ ] Não compartilhando informações entre si.
+- [ ] Trabalhando juntos para entender o código e identificar defeitos.
+- [ ] Não é possível colaborar nesse contexto.
 
-Espero que você tenha acertado todas as perguntas! 😊
+**Pergunta 6:** Qual é a chave para um desenvolvimento de software bem-sucedido?
+
+- [ ] Ignorar completamente o teste.
+- [ ] Usar sempre a mesma equipe de desenvolvedores.
+- [ ] Aplicar técnicas de teste apropriadas nos momentos certos do ciclo de vida.
+
+**Respostas:**
+
+1.  -  [x] Teste envolve avaliar a qualidade do software, enquanto depuração envolve a execução de testes.
+2.  - [x] Para reduzir o risco de falhas durante a operação.
+3.  - [x] Reduzir o risco de entregas problemáticas.
+4.  - [x] Garantir que as correções funcionem corretamente.
+5.  - [x] Trabalhando juntos para entender o código e identificar defeitos.
+6.  - [X] Aplicar técnicas de teste apropriadas nos momentos certos do ciclo de vida.
+
