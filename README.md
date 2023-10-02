@@ -14,7 +14,7 @@ O repositório está organizado da seguinte forma:
 
 - `Recursos/`: Aqui, você encontrará links para livros, cursos online, artigos e outras fontes de estudo que encontrei úteis durante minha preparação.
 
-- `Práticas/`: Incluí exemplos de exercícios práticos, problemas e desafios relacionados ao teste de software.
+- [Práticas/](Práticas/): Incluí exemplos de exercícios práticos, problemas e desafios relacionados ao teste de software.
 
 - `Simulados/`: Este diretório contém simulados de exames CTFL que estou usando para avaliar meu conhecimento e preparação.
 
