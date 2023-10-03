@@ -1,53 +1,76 @@
-# Quiz - Capítulo 1.2 da Syllabus - ISTQB Certified Tester Foundation Level
+## Quiz - Qualidade, Teste e Defeitos
+
+**1. Qual é o objetivo da Garantia de Qualidade?**
+- [ ] Identificar defeitos no código.
+- [ ] Realizar testes de software.
+- [ ] Garantir que os processos sejam seguidos para alcançar níveis adequados de qualidade.
+- [ ] Corrigir defeitos no código.
+
+**2. O que envolve o Controle de Qualidade?**
+- [ ] A garantia de que não haverá erros no código.
+- [ ] Atividades de teste, entre outras, para obter níveis adequados de qualidade.
+- [ ] A validação dos requisitos do software.
+- [ ] A revisão dos documentos de projeto.
+
+**3. O que são causas-raiz em relação aos defeitos?**
+- [ ] São os defeitos mais críticos no software.
+- [ ] São os primeiros defeitos a serem identificados durante os testes.
+- [ ] São as ações ou condições que contribuíram para a criação dos defeitos.
+- [ ] São defeitos que ocorrem repetidamente.
+
+**4. O que são falsos positivos e falsos negativos em testes?**
+- [ ] Falsos positivos são defeitos reais relatados como não defeitos, enquanto falsos negativos são defeitos inexistentes relatados como defeitos.
+- [ ] Falsos positivos e falsos negativos são termos usados para descrever erros de código.
+- [ ] Falsos positivos são defeitos inexistentes relatados como defeitos, enquanto falsos negativos são defeitos reais relatados como não defeitos.
+- [ ] Falsos positivos são defeitos de alto impacto, enquanto falsos negativos são defeitos de baixo impacto.
+
+**5. Por que é importante identificar causas-raiz dos defeitos?**
+- [ ] Para culpar os desenvolvedores pelos defeitos.
+- [ ] Para aprimorar o currículo dos testadores.
+- [ ] Para evitar problemas semelhantes no futuro e melhorar os processos.
+- [ ] Para documentar os defeitos em detalhes.
+
+**6. Qual é o objetivo principal da Garantia de Qualidade em relação aos processos?**
+- [ ] Evitar a execução de testes.
+- [ ] Garantir que processos adequados sejam seguidos para fornecer produtos de alta qualidade.
+- [ ] Aumentar o número de defeitos no software.
+- [ ] Controlar a qualidade após a entrega do software.
+
+**7. Qual é a diferença entre erros, defeitos e falhas?**
+- [ ] Não há diferença; são todos sinônimos.
+- [ ] Erros são causas de defeitos, que podem levar a falhas quando o software é executado.
+- [ ] Erros são defeitos, e falhas são causadas por erros de teste.
+- [ ] Erros são falhas, e defeitos são causas de erros.
+
+**8. Como a análise de causa-raiz pode contribuir para a melhoria do processo?**
+- [ ] Identificando os testadores responsáveis pelos defeitos.
+- [ ] Culpando a equipe de desenvolvimento pelos defeitos.
+- [ ] Treinando a equipe de teste em novas tecnologias.
+- [ ] Identificando e eliminando as causas das falhas para evitar defeitos semelhantes no futuro.
+
+**9. Qual é a principal contribuição dos testadores para a qualidade do software?**
+- [ ] Escrever código de alta qualidade.
+- [ ] Identificar todos os defeitos no software.
+- [ ] Auxiliar na criação de requisitos.
+- [ ] Detectar defeitos e contribuir para a remoção de defeitos, aumentando a probabilidade de o software atender às necessidades dos stakeholders.
+
+**10. O que é Controle de Qualidade?**
+- [ ] É o mesmo que Garantia de Qualidade.
+- [ ] Envolve a identificação das causas-raiz dos defeitos.
+- [ ] São atividades realizadas durante o desenvolvimento de software para obter níveis adequados de qualidade.
+- [ ] Foca apenas em testes de software.
 
 
-**Pergunta 1:** Qual é a diferença fundamental entre teste e depuração de código?
+**Respostas**
 
-- [ ] Teste envolve encontrar defeitos, enquanto depuração envolve a verificação de requisitos.
-- [ ] Teste envolve corrigir defeitos, enquanto depuração envolve a identificação de falhas.
-- [ ] Teste envolve avaliar a qualidade do software, enquanto depuração envolve a execução de testes.
-- [ ] Teste envolve a revisão de documentos, enquanto depuração envolve a análise de código.
-
-**Pergunta 2:** Por que o teste é necessário no desenvolvimento de software?
-
-- [ ] Para aumentar o custo do desenvolvimento.
-- [ ] Para agradar aos testadores.
-- [ ] Para reduzir o risco de falhas durante a operação.
-- [ ] Para cumprir requisitos de design.
-
-**Pergunta 3:** Qual é a principal contribuição do teste para o sucesso no desenvolvimento de software?
-
-- [ ] Aumentar o tempo de desenvolvimento.
-- [ ] Adicionar mais complexidade ao código.
-- [ ] Garantir que nenhum defeito seja encontrado.
-- [ ] Reduzir o risco de entregas problemáticas.
-
-**Pergunta 4:** Qual é o objetivo do teste de confirmação após a depuração?
-
-- [ ] Encontrar mais defeitos.
-- [ ] Verificar os requisitos.
-- [ ] Corrigir problemas de design.
-- [ ] Garantir que as correções funcionem corretamente.
-
-**Pergunta 5:** Como os testadores e desenvolvedores podem colaborar para reduzir defeitos no código?
-
-- [ ] Evitando completamente a colaboração.
-- [ ] Não compartilhando informações entre si.
-- [ ] Trabalhando juntos para entender o código e identificar defeitos.
-- [ ] Não é possível colaborar nesse contexto.
-
-**Pergunta 6:** Qual é a chave para um desenvolvimento de software bem-sucedido?
-
-- [ ] Ignorar completamente o teste.
-- [ ] Usar sempre a mesma equipe de desenvolvedores.
-- [ ] Aplicar técnicas de teste apropriadas nos momentos certos do ciclo de vida.
-
-**Respostas:**
-
-1.  -  [x] Teste envolve avaliar a qualidade do software, enquanto depuração envolve a execução de testes.
-2.  - [x] Para reduzir o risco de falhas durante a operação.
-3.  - [x] Reduzir o risco de entregas problemáticas.
-4.  - [x] Garantir que as correções funcionem corretamente.
-5.  - [x] Trabalhando juntos para entender o código e identificar defeitos.
-6.  - [X] Aplicar técnicas de teste apropriadas nos momentos certos do ciclo de vida.
+1. - [x] Garantir que os processos sejam seguidos para alcançar níveis adequados de qualidade.
+2. - [x] Atividades de teste, entre outras, para obter níveis adequados de qualidade.
+3. - [x] São as ações ou condições que contribuíram para a criação dos defeitos.
+4. - [x] Falsos positivos são defeitos reais relatados como não defeitos, enquanto falsos negativos são defeitos inexistentes relatados como defeitos.
+5. - [x] Para evitar problemas semelhantes no futuro e melhorar os processos.
+6. - [x] Garantir que processos adequados sejam seguidos para fornecer produtos de alta qualidade.
+7. - [x] Erros são causas de defeitos, que podem levar a falhas quando o software é executado.
+8. - [x] Identificando e eliminando as causas das falhas para evitar defeitos semelhantes no futuro.
+9. - [x] Detectar defeitos e contribuir para a remoção de defeitos, aumentando a probabilidade de o software atender às necessidades dos stakeholders.
+10. - [x] São atividades realizadas durante o desenvolvimento de software para obter níveis adequados de qualidade.
 
